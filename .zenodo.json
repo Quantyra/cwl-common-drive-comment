@@ -1,0 +1,29 @@
+{
+  "title": "Comment on “Testing quantum gravity using pulsed optomechanical systems”",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Analytical Comment on Wilson-Gerow, Chen and Stamp, Phys. Rev. D 109, 064078 (2024). At the same position drive and detuning, the two exclusive photon probabilities in the first-swap rotating-wave CWL model coincide with those of the centered Schrödinger–Newton oscillator. A nonzero ordinary background limits the physical interpretation at finite pulse strength. AI-assisted preprint for author review. Includes manuscript, editable source, and reproducible arithmetic checks.",
+  "creators": [
+    {
+      "name": "Fredriksen, Daniel",
+      "affiliation": "Quantyra Inc.",
+      "orcid": "0009-0002-9123-7435"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "pulsed optomechanics",
+    "correlated worldline theory",
+    "Schrödinger–Newton equation",
+    "rotating-wave approximation",
+    "photon counting"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1103/PhysRevD.109.064078",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
