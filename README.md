@@ -1,5 +1,7 @@
 # Comment on “Testing quantum gravity using pulsed optomechanical systems”
 
+[Zenodo v1.0.0](https://doi.org/10.5281/zenodo.24326219) · [All versions](https://doi.org/10.5281/zenodo.24326218)
+
 Daniel Fredriksen · Quantyra Inc. · [ORCID](https://orcid.org/0009-0002-9123-7435)
 
 [Read the preprint (PDF)](comment.pdf) · [Editable manuscript](comment.typ) · [Paper under discussion](https://doi.org/10.1103/PhysRevD.109.064078)
