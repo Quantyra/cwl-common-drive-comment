@@ -7,7 +7,7 @@
 #align(center)[
   #text(size: 17pt, weight: "semibold")[Comment on “Testing quantum gravity using pulsed optomechanical systems”] \
   #v(4pt)
-  #link("https://orcid.org/0009-0002-9123-7435")[Daniel Fredriksen] \
+  #link("https://orcid.org/0009-0002-9123-7435")[Daniel Fredriksen]#footnote[Contact author: #link("mailto:dfredriksen@quantyra.org")[#text("dfredriksen@quantyra.org")]] \
   #text(size: 10pt)[Quantyra Inc. · November 17, 2026]
 ]
 #v(3pt)
@@ -63,7 +63,7 @@ This is a lower bound on an ordinary zero-count probability at fixed drive stren
 
 *Data availability.* This calculation uses no experimental data. #link("https://github.com/Quantyra/cwl-common-drive-comment/tree/review/three-lens-v1.0.0")[Source, scripts and review reports].
 
-*Use of AI.* OpenAI Codex (GPT-6.2-Astra, xhigh reasoning) assisted with source comparison, mathematical derivation, verification code and manuscript preparation. The author specified the common-drive question, the source equations and the decision criteria. Grok 4.7, Claude Opus 5 and Antigravity (configured Gemini 3.8 Flash High) reviewed the preprint. Their reports informed the calibration analysis and the background check. The accompanying AI-assisted scripts reproduce the pulse propagator, finite-replica amplitudes and centered SN slope. Final human verification for journal submission is pending.
+*Use of AI.* OpenAI Codex (GPT-6.2-Astra, xhigh reasoning) assisted with source comparison, mathematical derivation, verification code and manuscript preparation. The author specified the common-drive question, the source equations and the decision criteria. Grok 4.7, Claude Opus 5 and Antigravity (configured Gemini 3.8 Flash High) reviewed the preprint. Their reports informed the calibration analysis and the background check. The accompanying AI-assisted scripts reproduce the pulse propagator, finite-replica amplitudes and centered SN slope. The author reviewed the revised manuscript and its scientific claims before submission.
 
 *Reference* \
 [1] J. Wilson-Gerow, Y. Chen, and P. C. E. Stamp, “Testing quantum gravity using pulsed optomechanical systems,” #emph[Phys. Rev. D] *109*, 064078 (2024). #link("https://doi.org/10.1103/PhysRevD.109.064078")[doi:10.1103/PhysRevD.109.064078].

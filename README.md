@@ -6,7 +6,7 @@ Daniel Fredriksen · Quantyra Inc. · [ORCID](https://orcid.org/0009-0002-9123-7
 
 For one specified ordinary-referenced laser pulse train, the first-swap rotating-wave calculation gives equal photon probabilities under correlated worldline and centered Schrödinger–Newton dynamics. The proof uses the two normalized replica endpoint weights. The final section bounds a background present when counter-rotating terms are retained. The physical count ratio beyond the rotating-wave approximation remains open.
 
-This branch contains an unreleased [review candidate](review/disposition.md) for the [archived v1.0.0 preprint](https://doi.org/10.5281/zenodo.24326219). Its AI assistance and verification scope are described in the manuscript. Journal submission and human author verification are separate.
+This branch contains the Comment submitted to *Physical Review D* on November 17, 2026, after author verification. The journal received the four-page [submitted manuscript](comment.pdf). [Three-model review and disposition](review/disposition.md) and [earlier Zenodo preprint](https://doi.org/10.5281/zenodo.24326219).
 
 ## Reproduce the arithmetic and PDF
 
